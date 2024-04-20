@@ -9,7 +9,7 @@ Welcome to my repository for web development assignments completed during my ten
   - Basic layout and styling
   - Introduction to web development concepts
 - **Technologies Used:** HTML, CSS
-- **Repository Folder:** [LandingPage] (link-to-repository)
+- **Repository Folder:** [LandingPage] (https://github.com/Adityadas2002/OCTANET_APRIL/tree/main/LandingPage)
 
 ### 2. Stylish Todo List
 - **Description:** My latest web creation, a sleek and functional todo list.
